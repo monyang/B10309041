@@ -1,0 +1,4 @@
+H = float(input("Please enter your height:\n"))
+W = float(input("Please enter your weight:\n"))
+BMI = W/((H/100)**2)
+Print(BMI)

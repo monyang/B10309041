@@ -1,0 +1,9 @@
+First = int(input("please enter your first exam score:\n"))
+Second = int(input("please enter your second exam score:\n"))
+Third = int(input("please enter your Third exam score:\n"))
+
+Secquence =[First,Second,Third]
+Secquence.sort()
+
+Final = Secquence[0]*0.2 +Secquence[1]*0.3 + Secquence[2]*0.5
+Final
