@@ -1,5 +1,0 @@
-Ans = int(input("Please enter a number in your mind:\n"))
-P = int(input("Please enter how people is going to involve in this gamble:\n"))
-l=1
-
-while l <=P
